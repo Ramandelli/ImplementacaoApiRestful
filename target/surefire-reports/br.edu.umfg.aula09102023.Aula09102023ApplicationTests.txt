@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.umfg.aula09102023.Aula09102023ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.178 s - in br.edu.umfg.aula09102023.Aula09102023ApplicationTests
